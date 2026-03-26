@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\Leo\\Practicas\\GestionDeTurnosAPI\\GestionDeTurnosAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C1CC569-3FCA-47E8-9ED0-0676F445DEC0}|AppointmentManagement.Domain\\AppointmentManagement.Domain.csproj|d:\\leo\\practicas\\gestiondeturnosapi\\gestiondeturnosapi\\appointmentmanagement.domain\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C1CC569-3FCA-47E8-9ED0-0676F445DEC0}|AppointmentManagement.Domain\\AppointmentManagement.Domain.csproj|solutionrelative:appointmentmanagement.domain\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39F6EFCC-DFDC-4DAD-8B64-DA37E1C4165F}|AppointmentManagement.Infrastructure\\AppointmentManagement.Infrastructure.csproj|d:\\leo\\practicas\\gestiondeturnosapi\\gestiondeturnosapi\\appointmentmanagement.infrastructure\\persistence\\configurations\\availabilityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F6EFCC-DFDC-4DAD-8B64-DA37E1C4165F}|AppointmentManagement.Infrastructure\\AppointmentManagement.Infrastructure.csproj|solutionrelative:appointmentmanagement.infrastructure\\persistence\\configurations\\availabilityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1CC569-3FCA-47E8-9ED0-0676F445DEC0}|AppointmentManagement.Domain\\AppointmentManagement.Domain.csproj|d:\\leo\\practicas\\gestiondeturnosapi\\gestiondeturnosapi\\appointmentmanagement.domain\\valueobjects\\timerange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1CC569-3FCA-47E8-9ED0-0676F445DEC0}|AppointmentManagement.Domain\\AppointmentManagement.Domain.csproj|solutionrelative:appointmentmanagement.domain\\valueobjects\\timerange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4C1CC569-3FCA-47E8-9ED0-0676F445DEC0}|AppointmentManagement.Domain\\AppointmentManagement.Domain.csproj|d:\\leo\\practicas\\gestiondeturnosapi\\gestiondeturnosapi\\appointmentmanagement.domain\\entities\\availability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C1CC569-3FCA-47E8-9ED0-0676F445DEC0}|AppointmentManagement.Domain\\AppointmentManagement.Domain.csproj|solutionrelative:appointmentmanagement.domain\\entities\\availability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1CC569-3FCA-47E8-9ED0-0676F445DEC0}|AppointmentManagement.Domain\\AppointmentManagement.Domain.csproj|d:\\leo\\practicas\\gestiondeturnosapi\\gestiondeturnosapi\\appointmentmanagement.domain\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1CC569-3FCA-47E8-9ED0-0676F445DEC0}|AppointmentManagement.Domain\\AppointmentManagement.Domain.csproj|solutionrelative:appointmentmanagement.domain\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1CC569-3FCA-47E8-9ED0-0676F445DEC0}|AppointmentManagement.Domain\\AppointmentManagement.Domain.csproj|d:\\leo\\practicas\\gestiondeturnosapi\\gestiondeturnosapi\\appointmentmanagement.domain\\entities\\professional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1CC569-3FCA-47E8-9ED0-0676F445DEC0}|AppointmentManagement.Domain\\AppointmentManagement.Domain.csproj|solutionrelative:appointmentmanagement.domain\\entities\\professional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,6 +32,71 @@
           "DockedWidth": 200,
           "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TimeRange.cs",
+              "DocumentMoniker": "D:\\Leo\\Practicas\\GestionDeTurnosAPI\\GestionDeTurnosAPI\\AppointmentManagement.Domain\\ValueObjects\\TimeRange.cs",
+              "RelativeDocumentMoniker": "AppointmentManagement.Domain\\ValueObjects\\TimeRange.cs",
+              "ToolTip": "D:\\Leo\\Practicas\\GestionDeTurnosAPI\\GestionDeTurnosAPI\\AppointmentManagement.Domain\\ValueObjects\\TimeRange.cs",
+              "RelativeToolTip": "AppointmentManagement.Domain\\ValueObjects\\TimeRange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T21:39:17.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Professional.cs",
+              "DocumentMoniker": "D:\\Leo\\Practicas\\GestionDeTurnosAPI\\GestionDeTurnosAPI\\AppointmentManagement.Domain\\Entities\\Professional.cs",
+              "RelativeDocumentMoniker": "AppointmentManagement.Domain\\Entities\\Professional.cs",
+              "ToolTip": "D:\\Leo\\Practicas\\GestionDeTurnosAPI\\GestionDeTurnosAPI\\AppointmentManagement.Domain\\Entities\\Professional.cs",
+              "RelativeToolTip": "AppointmentManagement.Domain\\Entities\\Professional.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T21:22:06.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Availability.cs",
+              "DocumentMoniker": "D:\\Leo\\Practicas\\GestionDeTurnosAPI\\GestionDeTurnosAPI\\AppointmentManagement.Domain\\Entities\\Availability.cs",
+              "RelativeDocumentMoniker": "AppointmentManagement.Domain\\Entities\\Availability.cs",
+              "ToolTip": "D:\\Leo\\Practicas\\GestionDeTurnosAPI\\GestionDeTurnosAPI\\AppointmentManagement.Domain\\Entities\\Availability.cs",
+              "RelativeToolTip": "AppointmentManagement.Domain\\Entities\\Availability.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T21:22:04.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\Leo\\Practicas\\GestionDeTurnosAPI\\GestionDeTurnosAPI\\AppointmentManagement.Domain\\Entities\\Appointment.cs",
+              "RelativeDocumentMoniker": "AppointmentManagement.Domain\\Entities\\Appointment.cs",
+              "ToolTip": "D:\\Leo\\Practicas\\GestionDeTurnosAPI\\GestionDeTurnosAPI\\AppointmentManagement.Domain\\Entities\\Appointment.cs",
+              "RelativeToolTip": "AppointmentManagement.Domain\\Entities\\Appointment.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwDsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T21:21:58.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AvailabilityConfiguration.cs",
+              "DocumentMoniker": "D:\\Leo\\Practicas\\GestionDeTurnosAPI\\GestionDeTurnosAPI\\AppointmentManagement.Infrastructure\\Persistence\\Configurations\\AvailabilityConfiguration.cs",
+              "RelativeDocumentMoniker": "AppointmentManagement.Infrastructure\\Persistence\\Configurations\\AvailabilityConfiguration.cs",
+              "ToolTip": "D:\\Leo\\Practicas\\GestionDeTurnosAPI\\GestionDeTurnosAPI\\AppointmentManagement.Infrastructure\\Persistence\\Configurations\\AvailabilityConfiguration.cs",
+              "RelativeToolTip": "AppointmentManagement.Infrastructure\\Persistence\\Configurations\\AvailabilityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T21:14:36.369Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -35,32 +112,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Appointment.cs",
-              "DocumentMoniker": "D:\\Leo\\Practicas\\GestionDeTurnosAPI\\GestionDeTurnosAPI\\AppointmentManagement.Domain\\Entities\\Appointment.cs",
-              "RelativeDocumentMoniker": "AppointmentManagement.Domain\\Entities\\Appointment.cs",
-              "ToolTip": "D:\\Leo\\Practicas\\GestionDeTurnosAPI\\GestionDeTurnosAPI\\AppointmentManagement.Domain\\Entities\\Appointment.cs",
-              "RelativeToolTip": "AppointmentManagement.Domain\\Entities\\Appointment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T22:52:27.411Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Availability.cs",
-              "DocumentMoniker": "D:\\Leo\\Practicas\\GestionDeTurnosAPI\\GestionDeTurnosAPI\\AppointmentManagement.Domain\\Entities\\Availability.cs",
-              "RelativeDocumentMoniker": "AppointmentManagement.Domain\\Entities\\Availability.cs",
-              "ToolTip": "D:\\Leo\\Practicas\\GestionDeTurnosAPI\\GestionDeTurnosAPI\\AppointmentManagement.Domain\\Entities\\Availability.cs",
-              "RelativeToolTip": "AppointmentManagement.Domain\\Entities\\Availability.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T22:51:27.502Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -11,11 +11,11 @@ namespace AppointmentManagement.Domain.ValueObjects;
         public TimeSpan Start { get; }
         public TimeSpan End { get; }
 
+    private TimeRange() { }
         public TimeRange(TimeSpan start, TimeSpan end)
         {
             if (start >= end)
-                throw new ArgumentException("Start time must be before end time.");
-
+                throw new ArgumentException("Start time must be before end time."); //La fecha de inicio tiene que ser anterior al fin.
             Start = start;
             End = end;
         }
